@@ -1,0 +1,7 @@
+C:\projects\ProjectBench\Mycontainerapp\Mycontainerapp\obj\Release\net8.0\linux-x64\PubTmp\Out\Mycontainerapp
+C:\projects\ProjectBench\Mycontainerapp\Mycontainerapp\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\projects\ProjectBench\Mycontainerapp\Mycontainerapp\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\projects\ProjectBench\Mycontainerapp\Mycontainerapp\obj\Release\net8.0\linux-x64\PubTmp\Out\Mycontainerapp.dll
+C:\projects\ProjectBench\Mycontainerapp\Mycontainerapp\obj\Release\net8.0\linux-x64\PubTmp\Out\Mycontainerapp.deps.json
+C:\projects\ProjectBench\Mycontainerapp\Mycontainerapp\obj\Release\net8.0\linux-x64\PubTmp\Out\Mycontainerapp.runtimeconfig.json
+C:\projects\ProjectBench\Mycontainerapp\Mycontainerapp\obj\Release\net8.0\linux-x64\PubTmp\Out\Mycontainerapp.pdb

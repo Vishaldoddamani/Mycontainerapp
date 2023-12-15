@@ -1,0 +1,7 @@
+C:\projects\ProjectBench\Mycontainerapp\Mycontainerapp\obj\Docker\publish\Mycontainerapp
+C:\projects\ProjectBench\Mycontainerapp\Mycontainerapp\obj\Docker\publish\appsettings.Development.json
+C:\projects\ProjectBench\Mycontainerapp\Mycontainerapp\obj\Docker\publish\appsettings.json
+C:\projects\ProjectBench\Mycontainerapp\Mycontainerapp\obj\Docker\publish\Mycontainerapp.dll
+C:\projects\ProjectBench\Mycontainerapp\Mycontainerapp\obj\Docker\publish\Mycontainerapp.deps.json
+C:\projects\ProjectBench\Mycontainerapp\Mycontainerapp\obj\Docker\publish\Mycontainerapp.runtimeconfig.json
+C:\projects\ProjectBench\Mycontainerapp\Mycontainerapp\obj\Docker\publish\Mycontainerapp.pdb
